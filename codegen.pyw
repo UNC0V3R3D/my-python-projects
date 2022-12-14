@@ -1,6 +1,4 @@
 import customtkinter
-import tkinter
-import sys
 import random
 import string
 import clipboard
